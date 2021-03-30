@@ -1,2 +1,2 @@
 # hinh background
-![] (hello_git/binh_background.png "background") (&lt;img alt="title"/&gt;)
+![] (binh_background_welcome.png "background") (&lt;img alt="title"/&gt;)
